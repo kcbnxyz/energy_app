@@ -37,12 +37,12 @@ Change `API_ENDPOINT` in `lib/api/api.dart` to correct local endpoint of backend
 
 ## Structure
 
-`api` folder contains api-related class, models and functions
-`presentation` and `widget` folders contain UI components, pages
-`providers` folder contains providers for state management and handling data
-`routing` folder contains router between pages
-`utils` folder contains helper functions
-`test` folder contains unittest
+- `api` folder contains api-related class, models and functions
+- `presentation` and `widget` folders contain UI components, pages.
+- `providers` folder contains providers for state management and handling data
+- `routing` folder contains router between pages
+- `utils` folder contains helper functions
+- `test` folder contains unittest
 
 ## Tradeoffs
 
